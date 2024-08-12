@@ -5,7 +5,7 @@ export default function Home() {
 
     <div className="w-[80%] mx-auto py-8">
       <h1 className="text-[30px]">
-       Welcome to clerk Auth ⭐⭐
+       Welcome to clerk Authentication ⭐⭐
       </h1>
       <p>
         This is all about the clerk Auth
