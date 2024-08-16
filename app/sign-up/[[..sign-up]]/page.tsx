@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div>sign-up</div>
+    <div>Welcome to the page..</div>
   )
 }
 
