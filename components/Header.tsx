@@ -20,6 +20,9 @@ export default function Header() {
             <li>
               <Link href="/signin">Sign In</Link>
             </li>
+            <li>
+              <Link href="/signup">Sign up</Link>
+            </li>
           </ul>
         </nav>
       </div> 
